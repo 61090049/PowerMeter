@@ -1,0 +1,231 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ES8266
+D 802.11 b/g/n Wi-Fi Module
+K 802.11 Wi-Fi
+F http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf
+$ENDCMP
+#
+$CMP ESP8266
+D 802.11 b/g/n Wi-Fi Module
+K 802.11 Wi-Fi
+F http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf
+$ENDCMP
+#
+$CMP NODE_MCU_DOIT_V1_ESP8266
+D RF Module, ESP32-D0WD SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, external antenna, SMD
+K RF Radio BT ESP ESP32 Espressif external U.FL antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+$ENDCMP
+#
+$CMP Si7050-A20
+D I2C Temperature Sensor, ±1.0ºC, DFN-6
+K I2C Temperature Sensor
+F https://www.silabs.com/documents/public/data-sheets/Si7050-1-3-4-5-A20.pdf
+$ENDCMP
+#
+$CMP Si7051-A20
+D I2C Temperature Sensor, ±0.1ºC, DFN-6
+K I2C Temperature Sensor
+F https://www.silabs.com/documents/public/data-sheets/Si7050-1-3-4-5-A20.pdf
+$ENDCMP
+#
+$CMP Si7053-A20
+D I2C Temperature Sensor, ±0.3ºC, DFN-6
+K I2C Temperature Sensor
+F https://www.silabs.com/documents/public/data-sheets/Si7050-1-3-4-5-A20.pdf
+$ENDCMP
+#
+$CMP Si7054-A20
+D I2C Temperature Sensor, ±0.4ºC, DFN-6
+K I2C Temperature Sensor
+F https://www.silabs.com/documents/public/data-sheets/Si7050-1-3-4-5-A20.pdf
+$ENDCMP
+#
+$CMP Si7055-A20
+D I2C Temperature Sensor, ±0.5ºC, DFN-6
+K I2C Temperature Sensor
+F https://www.silabs.com/documents/public/data-sheets/Si7050-1-3-4-5-A20.pdf
+$ENDCMP
+#
+$CMP TEC2-1210WI
+D 500mA Regulated 2W DC/DC converter with 1.5kV isolation, 4.5V-18V input, 3.3V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-1211WI
+D 400mA Regulated 2W DC/DC converter with 1.5kV isolation, 4.5V-18V input, 5V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-1212WI
+D 167mA Regulated 2W DC/DC converter with 1.5kV isolation, 4.5V-18V input, 12V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-1213WI
+D 134mA Regulated 2W DC/DC converter with 1.5kV isolation, 4.5V-18V input, 15V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-1215WI
+D 83mA Regulated 2W DC/DC converter with 1.5kV isolation, 4.5V-18V input, 24V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-1219WI
+D 222mA Regulated 2W DC/DC converter with 1.5kV isolation, 4.5V-18V input, 9V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-2410WI
+D 500mA Regulated 2W DC/DC converter with 1.5kV isolation, 9V-36V input, 3.3V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-2411WI
+D 400mA Regulated 2W DC/DC converter with 1.5kV isolation, 9V-36V input, 5V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-2412WI
+D 167mA Regulated 2W DC/DC converter with 1.5kV isolation, 9V-36V input, 12V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-2413WI
+D 134mA Regulated 2W DC/DC converter with 1.5kV isolation, 9V-36V input, 15V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-2415WI
+D 83mA Regulated 2W DC/DC converter with 1.5kV isolation, 9V-36V input, 24V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-2419WI
+D 222mA Regulated 2W DC/DC converter with 1.5kV isolation, 9V-36V input, 9V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-4810WI
+D 500mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-75V input, 3.3V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-4811WI
+D 400mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-75V input, 5V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-4812WI
+D 167mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-75V input, 12V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-4813WI
+D 134mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-75V input, 15V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-4815WI
+D 83mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-75V input, 24V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TEC2-4819WI
+D 222mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-75V input, 9V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tec2wi.pdf
+$ENDCMP
+#
+$CMP TMR-0511
+D 400mA Regulated 2W DC/DC converter with 1.5kV isolation, 4.5V-9V input, 5V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+$CMP TMR-0512
+D 165mA Regulated 2W DC/DC converter with 1.5kV isolation, 4.5V-9V input, 12V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+$CMP TMR-1210
+D 500mA Regulated 2W DC/DC converter with 1.5kV isolation, 9V-18V input, 3.3V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+$CMP TMR-1211
+D 400mA Regulated 2W DC/DC converter with 1.5kV isolation, 9V-18V input, 5V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+$CMP TMR-1212
+D 165mA Regulated 2W DC/DC converter with 1.5kV isolation, 9V-18V input, 12V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+$CMP TMR-2410
+D 500mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-36V input, 3.3V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+$CMP TMR-2411
+D 400mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-36V input, 5V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+$CMP TMR-2412
+D 165mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-36V input, 12V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+$CMP TMR-4810
+D 500mA Regulated 2W DC/DC converter with 1.5kV isolation, 36V-75V input, 3.3V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+$CMP TMR-4811
+D 400mA Regulated 2W DC/DC converter with 1.5kV isolation, 36V-75V input, 5V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+$CMP TMR-4812
+D 165mA Regulated 2W DC/DC converter with 1.5kV isolation, 36V-75V input, 12V fixed Output Voltage, SIP-8
+K Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+$CMP ZMPT101B
+D 500mA Regulated 2W DC/DC converter with 1.5kV isolation, 4.5V-9V input, 3.3V fixed Output Voltage, SIP-8
+K  Traco isolated isolation dc-dc converter transformer
+F https://www.tracopower.com/products/tmr2.pdf
+$ENDCMP
+#
+#End Doc Library
